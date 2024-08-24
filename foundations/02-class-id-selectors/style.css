@@ -10,5 +10,10 @@
 #two {
     font-size:36px;
     color: rgb(0,0,255);
+}
 
-
+#four {
+	background-color: rgb(12, 255, 50);
+	font-size:24px;
+	font-weight:700;
+}
