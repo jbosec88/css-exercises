@@ -1,0 +1,9 @@
+/* css style elements for only <div> and <p> selectors */
+
+.container .text {
+	background-color: rgb(255,255,0);
+	color: rgb(255,0,0);
+	font-size: 20px;
+	text-align: center;
+}
+
